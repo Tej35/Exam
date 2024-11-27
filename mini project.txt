@@ -1,0 +1,5 @@
+public class mini project {
+public static void main (String [] args ){
+
+System.out.println ("miniproject");
+}}
